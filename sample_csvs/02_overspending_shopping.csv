@@ -1,0 +1,16 @@
+id,date,description,category,amount,payment_method,notes
+O001,2026-10-01,College lunch,Food,140,UPI,Overspending demo
+O002,2026-10-02,New sneakers,Shopping,2499,Debit card,Overspending demo
+O003,2026-10-03,Online clothing order,Shopping,1899,UPI,Overspending demo
+O004,2026-10-04,Phone recharge,Bills,299,UPI,Overspending demo
+O005,2026-10-05,Food delivery,Food,420,UPI,Overspending demo
+O006,2026-10-06,Gaming accessories,Shopping,1499,Debit card,Overspending demo
+O007,2026-10-07,Auto rides,Transport,240,UPI,Overspending demo
+O008,2026-10-08,Coffee and dessert,Food,260,Debit card,Overspending demo
+O009,2026-10-10,Movie and snacks,Entertainment,390,Debit card,Overspending demo
+O010,2026-10-11,Online impulse purchase,Shopping,999,UPI,Overspending demo
+O011,2026-10-12,Groceries,Food,650,UPI,Overspending demo
+O012,2026-10-14,Bus pass,Transport,350,UPI,Overspending demo
+O013,2026-10-16,Another clothing purchase,Shopping,1299,Debit card,Overspending demo
+O014,2026-10-18,Lunch,Food,180,Cash,Overspending demo
+O015,2026-10-20,Subscription,Entertainment,299,Debit card,Overspending demo

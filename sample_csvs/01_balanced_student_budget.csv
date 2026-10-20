@@ -1,0 +1,16 @@
+id,date,description,category,amount,payment_method,notes
+D001,2026-10-01,College lunch,Food,95,UPI,Balanced demo
+D002,2026-10-02,Bus fare,Transport,40,Cash,Balanced demo
+D003,2026-10-03,Notebook,Education,120,Cash,Balanced demo
+D004,2026-10-04,Phone recharge,Bills,249,UPI,Balanced demo
+D005,2026-10-05,Groceries share,Food,280,UPI,Balanced demo
+D006,2026-10-06,Metro ride,Transport,60,UPI,Balanced demo
+D007,2026-10-08,Coffee,Food,85,Cash,Balanced demo
+D008,2026-10-10,Lab record book,Education,160,Debit card,Balanced demo
+D009,2026-10-12,Movie ticket,Entertainment,180,Debit card,Balanced demo
+D010,2026-10-14,Auto ride,Transport,130,UPI,Balanced demo
+D011,2026-10-16,Snacks,Food,55,Cash,Balanced demo
+D012,2026-10-18,Internet share,Bills,199,UPI,Balanced demo
+D013,2026-10-20,Toiletries,Personal care,145,UPI,Balanced demo
+D014,2026-10-22,Lunch,Food,110,UPI,Balanced demo
+D015,2026-10-24,Stationery,Education,75,Cash,Balanced demo

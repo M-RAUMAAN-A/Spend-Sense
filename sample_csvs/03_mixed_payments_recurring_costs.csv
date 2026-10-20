@@ -1,0 +1,19 @@
+id,date,description,category,amount,payment_method,notes
+M001,2026-08-02,Mobile recharge,Bills,249,UPI,Recurring cost demo
+M002,2026-08-04,Bus pass,Transport,300,Cash,Recurring cost demo
+M003,2026-08-06,Groceries,Food,480,UPI,Recurring cost demo
+M004,2026-08-09,Medicine,Health,220,Debit card,Recurring cost demo
+M005,2026-08-12,Stationery,Education,160,Cash,Recurring cost demo
+M006,2026-09-02,Mobile recharge,Bills,249,UPI,Recurring cost demo
+M007,2026-09-04,Bus pass,Transport,300,Cash,Recurring cost demo
+M008,2026-09-06,Groceries,Food,520,UPI,Recurring cost demo
+M009,2026-09-09,Medicine,Health,180,Debit card,Recurring cost demo
+M010,2026-09-12,Streaming subscription,Entertainment,149,Debit card,Recurring cost demo
+M011,2026-10-02,Mobile recharge,Bills,249,UPI,Recurring cost demo
+M012,2026-10-04,Bus pass,Transport,300,Cash,Recurring cost demo
+M013,2026-10-06,Groceries,Food,560,UPI,Recurring cost demo
+M014,2026-10-09,Medicine,Health,240,Debit card,Recurring cost demo
+M015,2026-10-12,Streaming subscription,Entertainment,149,Debit card,Recurring cost demo
+M016,2026-10-15,Electricity share,Bills,420,UPI,Recurring cost demo
+M017,2026-10-18,Cafe visit,Food,210,Cash,Recurring cost demo
+M018,2026-10-20,Auto ride,Transport,170,UPI,Recurring cost demo

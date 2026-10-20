@@ -1,0 +1,20 @@
+SpendSense/
+├── app.R
+├── frontend/
+│   ├── ui.R
+│   └── styles.css
+├── backend/
+│   ├── server.R
+│   ├── data_manager.R
+│   ├── analytics.R
+│   └── insights.R
+├── data/
+│   ├── transactions.csv
+│   ├── budgets.csv
+│   └── categories.csv
+├── tests/
+│   └── test_analytics.R
+├── docs/
+│   └── PROJECT_OVERVIEW.md
+├── HOW_TO_USE.md
+└── README.md
